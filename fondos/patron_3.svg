@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="200px" width="200px">
+  <defs>
+    <pattern id="doodad" width="45.03" height="78" viewBox="0 0 34.64101615137755 60" patternUnits="userSpaceOnUse" patternTransform="">
+      <rect width="100%" height="100%" fill="rgba(235, 33, 65,1)"/>
+      <path d="M44.17 34.5L44.17 45.5L25.11 34.5L34.64 29L34.64 51L25.11 45.5L34.64 40z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M26.85 44.5L26.85 55.5L7.79 44.5L17.32 39L17.32 61L7.79 55.5L17.32 50z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M9.53 34.5L9.53 45.5L-9.53 34.5L0 29L0 51L-9.53 45.5L0 40z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M9.53 14.5L9.53 25.5L-9.53 14.5L0 9L0 31L-9.53 25.5L0 20z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M26.85 4.5L26.85 15.5L7.79 4.5L17.32-1L17.32 21L7.79 15.5L17.32 10z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M44.17 14.5L44.17 25.5L25.11 14.5L34.64 9L34.64 31L25.11 25.5L34.64 20z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+      <path d="M34.64 50L43.3 45L25.98 35L25.98 45L43.3 35L34.64 30L34.64 40z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M17.32 60L25.98 55L8.66 45L8.66 55L25.98 45L17.32 40L17.32 50z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M0 50L8.66 45L-8.66 35L-8.66 45L8.66 35L0 30L0 40z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M0 30L8.66 25L-8.66 15L-8.66 25L8.66 15L0 10L0 20z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M17.32 20L25.98 15L8.66 5L8.66 15L25.98 5L17.32 0L17.32 10z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M34.64 30L43.3 25L25.98 15L25.98 25L43.3 15L34.64 10L34.64 20z" stroke-linejoin="miter" fill="rgba(27, 36, 55,1)"/>
+      <path d="M24.25 26L24.25 34L10.39 26L17.32 22L17.32 38L10.39 34L17.32 30z" stroke-linejoin="miter" fill="rgba(93, 138, 163,1)"/>
+    </pattern>
+  </defs>
+  <rect fill="url(#doodad)" height="200%" width="200%"/>
+</svg>
